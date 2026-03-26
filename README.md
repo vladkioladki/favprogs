@@ -1,47 +1,51 @@
-# vladki favprogs
-Підбірка моїх улюблених безкоштовних програм з описом.
+# 🛠️ favprogs
 
-⭐ - Рекомендую
-🤷‍♂️ - Не тестовано
-##### Ігри
+Підбірка моїх улюблених безкоштовних програм.
 
-Gale 
-Limo 
-Rare 
-Vortex 
-Hydra Launcher ⭐
-Itch.io 
-Heroic Game Launcher 
-PCXSense 
-###### <u>Емулятори</u>
-Ludo 🤷‍♂️
-Mandarine 🤷‍♂️
-PCSX2 
-RPCS3 🤷‍♂️
-Mesen 
-###### <u>Minecraft</u>
-Prism Launcher 
-Freesm Launcher 
-Shatteredprism launcher ⭐
-##### Медіа
-VLC
+### 🔑 Легенда
+* ⭐ — **Рекомендую**
+* 🤷‍♂️ — **Не тестовано**
 
+---
 
-##### Системні
+## 🎮 Ігри
+* **Gale**
+* **Limo**
+* **Rare**
+* **Vortex**
+* **Hydra Launcher** ⭐
+* **Itch.io**
+* **Heroic Game Launcher**
+* **PCXSense**
 
+## 🕹️ Емулятори
+* **Ludo** 🤷‍♂️
+* **Mandarine** 🤷‍♂️
+* **PCSX2**
+* **RPCS3** 🤷‍♂️
+* **Mesen**
 
-##### Редактори
-Kdenlive
+## 🟩 Minecraft
+* **Prism Launcher**
+* **Freesm Launcher**
+* **Shatteredprism launcher** ⭐
 
-##### Браузери
+## 🎬 Медіа
+* **VLC**
 
+## ⚙️ Системні
+* *(Список поки порожній)*
 
-#####  Файли
-Cobalt Tools
+## 📝 Редактори
+* **Kdenlive**
 
-##### Спілкування
+## 🌐 Браузери
+* *(Список поки порожній)*
 
-Legcord 
-Unigram
-Ferdium
+## 📁 Файли
+* **Cobalt Tools**
 
+## 💬 Спілкування
+* **Legcord**
+* **Unigram**
+* **Ferdium**
